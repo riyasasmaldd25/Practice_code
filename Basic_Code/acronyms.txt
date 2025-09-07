@@ -1,0 +1,25 @@
+VCS – Version Control System (Git itself is one)
+
+SCM – Source Code Management
+
+SHA – Secure Hash Algorithm (used by Git to identify commits)
+
+HEAD – Current snapshot or pointer to the latest commit in your branch
+
+PR / MR – Pull Request (GitHub) / Merge Request (GitLab)
+
+CI/CD – Continuous Integration / Continuous Deployment (often linked with Git repos)
+
+SSH – Secure Shell (used for authentication with GitHub/GitLab)
+
+URL – Uniform Resource Locator (the link to your repo)
+
+API – Application Programming Interface (GitHub exposes one too)
+
+IDE – Integrated Development Environment (VS Code, PyCharm, etc., often integrates Git)ML - Machine Learning
+LOL - Laugh Out Loud
+ML - Machine Learning
+LET ME LIVE!! - nothing
+AI - Artificial Intelligence
+CD - Compact Disk
+CD - Compact Disk
